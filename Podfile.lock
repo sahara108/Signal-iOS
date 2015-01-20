@@ -34,15 +34,15 @@ PODS:
   - HKDFKit (0.0.3)
   - JSQMessagesViewController (6.1.1):
     - JSQSystemSoundPlayer (~> 2.0.0)
-  - JSQSystemSoundPlayer (2.0.0)
-  - libPhoneNumber-iOS (0.7.5)
-  - Mantle (1.5.1):
-    - Mantle/extobjc (= 1.5.1)
-  - Mantle/extobjc (1.5.1)
-  - OpenSSL (1.0.110)
+  - JSQSystemSoundPlayer (2.0.1)
+  - libPhoneNumber-iOS (0.7.6)
+  - Mantle (1.5.4):
+    - Mantle/extobjc (= 1.5.4)
+  - Mantle/extobjc (1.5.4)
+  - OpenSSL (1.0.111)
   - PastelogKit (1.2):
     - CocoaLumberjack (~> 1.9)
-  - ProtocolBuffers (1.9.3)
+  - ProtocolBuffers (1.9.6)
   - SocketRocket (0.3.1-beta2)
   - SQLCipher/common (3.1.0)
   - SQLCipher/fts (3.1.0):
@@ -99,12 +99,12 @@ SPEC CHECKSUMS:
   DJWActionSheet: d88b302d7c29523e1e9fb9b62cfac46f59bb90d9
   HKDFKit: 5998cf1bbb611e7ecc6bd3eaaef8c7a7da7be949
   JSQMessagesViewController: 554430bbaeb0b2dbed8d4aaa2bdf64559e67f353
-  JSQSystemSoundPlayer: c98443b1cbb3b45db09d0d3d6c2355cf78294981
-  libPhoneNumber-iOS: 16b9556d7fdf4819eabeb7b7356fea3373fa47f9
-  Mantle: d7c5ac734579ec751c58fecbf56189853056c58c
-  OpenSSL: 72a82aa51b056ae5833307a3fef9b571f38ce11c
+  JSQSystemSoundPlayer: 55528c699a283aae2220d3ae7b8b527d2ecef4b4
+  libPhoneNumber-iOS: d4316d494d4997c40a6059faf35a970d7f4eb1c0
+  Mantle: d5fbaf30fbc58031223af13812c060e15934a1fe
+  OpenSSL: fd8da9caabf892c8b1d24cde3dc61508f5cc38de
   PastelogKit: 8bab71b1d187617a83e7124cffe9eb1a600e6695
-  ProtocolBuffers: e80f9e4fc401aec9d3c30be70db87fcd5f1cb880
+  ProtocolBuffers: 14cb9a11dea92724bb8aa1feb6c26e79b4f7ac02
   SocketRocket: 9cbe08469513356cddc0afcab1ff160bd190296a
   SQLCipher: 981110217eb93c2779c34fb59e646a1c1da918d8
   SSKeychain: cc48bd3ad24fcd9125adb9e0d23dd50b8bbd08b9
